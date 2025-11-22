@@ -1,22 +1,6 @@
-<h1 align="center">Hi, I'm Aliza 👋</h1>
-<h3 align="center">Flutter Developer | Mobile App Engineer</h3>
-
 <p align="center">
-  I build mobile apps with clean UI, stable architecture, and real-world functionality.  
-  I focus on Flutter, backend APIs, Firebase, and integrations that make apps actually useful.
+  <img src="https://github.com/alizasaeed02/alizasaeed02/blob/main/banner.png" alt="Aliza Saeed – Mobile App Developer Banner" />
 </p>
-
----
-
-## 🚀 About Me
-- 🔭 I build full-stack mobile apps using **Flutter, Firebase, Node.js**
-- 🧱 I follow proper structure & traditional software practices — clean, readable code > messy shortcuts
-- 📱 Skilled in state management (Bloc, GetX, Provider)
-- 🔥 Comfortable with backend development + API integrations
-- 🎯 Goal: Build scalable apps, grow independently, and sharpen my engineering skills
-- 💬 Ask me about: Flutter, REST APIs, Firebase Auth, Clean Architecture, App Deployment
-
----
 
 ## 🧰 Tech Stack
 

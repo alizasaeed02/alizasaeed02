@@ -70,7 +70,7 @@ A beautiful Quran reading app with peaceful UI and smooth navigation.
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=alizasaeed02&repo=tutor-connect-system-web-project&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/alizasaeed02/weather_App">
+<a href="https://github.com/alizasaeed02/Weather_App">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=alizasaeed02&repo=Weather_App&theme=tokyonight" />
 </a>
 
@@ -78,8 +78,8 @@ A beautiful Quran reading app with peaceful UI and smooth navigation.
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=alizasaeed02&repo=Bakery-app&theme=tokyonight" />
 </a>
 
-<a href="https://github.com/alizasaeed02/quran-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alizasaeed02&repo=quran-app&theme=tokyonight" />
+<a href="https://github.com/alizasaeed02/Quran-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alizasaeed02&repo=Quran-App&theme=tokyonight" />
 </a>
 
 <a href="https://github.com/alizasaeed02/Blocx">

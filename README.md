@@ -17,6 +17,7 @@
 - 💬 Ask me about: Flutter, REST APIs, Firebase Auth, Clean Architecture, App Deployment
 
 ---
+
 ## 🧰 Tech Stack
 
 ### **Mobile Development**
@@ -64,35 +65,30 @@ A beautiful Quran reading app with peaceful UI and smooth navigation.
 
 ---
 
-## 📌 Pinned Repositories
+## 📌 Pinned Repositories 
 
-<a href="https://github.com/alizasaeed02/tutor-connect-system-web-project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alizasaeed02&repo=tutor-connect-system-web-project&theme=tokyonight" />
-</a>
+[![Tutor Connect](https://img.shields.io/badge/Tutor_Connect_System-blue?style=for-the-badge&logo=github)](https://github.com/alizasaeed02/tutor-connect-system-web-project)  
+[![Weather App](https://img.shields.io/badge/Weather_App-green?style=for-the-badge&logo=github)](https://github.com/alizasaeed02/Weather_App)  
+[![Bakery App](https://img.shields.io/badge/Bakery_App-orange?style=for-the-badge&logo=github)](https://github.com/alizasaeed02/Bakery-app)  
+[![Quran App](https://img.shields.io/badge/Quran_App-red?style=for-the-badge&logo=github)](https://github.com/alizasaeed02/Quran-App)  
+[![Blocx](https://img.shields.io/badge/Blocx-purple?style=for-the-badge&logo=github)](https://github.com/alizasaeed02/Blocx)
 
-<a href="https://github.com/alizasaeed02/Weather_App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alizasaeed02&repo=Weather_App&theme=tokyonight" />
-</a>
+---
 
-<a href="https://github.com/alizasaeed02/Bakery-app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alizasaeed02&repo=Bakery-app&theme=tokyonight" />
-</a>
+## 🟦 Main Language
 
-<a href="https://github.com/alizasaeed02/Quran-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alizasaeed02&repo=Quran-App&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/alizasaeed02/Blocx">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=alizasaeed02&repo=Blocx&theme=tokyonight" />
-</a>
+<p align="center">
+  <a href="https://dart.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Main%20Language-Dart-blue?style=for-the-badge&logo=dart" alt="Dart Badge"/>
+  </a>
+</p>
 
 ---
 
 ## 📈 GitHub Stats
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alizasaeed02&layout=compact&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/jstrieb/github-stats/master/generated/languages.svg" />
 </p>
 
 ---
@@ -106,6 +102,4 @@ A beautiful Quran reading app with peaceful UI and smooth navigation.
 ---
 
 ## 🤝 Let’s Connect
-**GitHub:** @alizasaeed02  
-
-
+**GitHub:** @alizasaeed02

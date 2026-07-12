@@ -76,11 +76,8 @@
 | **[Bakery App](https://github.com/alizasaeed02/Bakery-app)** | Shop management — browse items, build a cart, and place orders | Flutter · Firebase |
 | **[Blocx](https://github.com/alizasaeed02/Blocx)** | A reference app showing Bloc for scalable state management | Flutter · Bloc |
 | **[Quran App](https://github.com/alizasaeed02/Quran-App)** | Clean Quran reader with a calm UI and smooth navigation | Flutter · Dart |
-| **[FoodHub App](https://github.com/alizasaeed02)** ⚠️ | Food ordering with restaurant browsing, cart, and a live delivery flow | Flutter · Firebase |
-| **[Gym Management App](https://github.com/alizasaeed02)** ⚠️ | Member records, workout plans, and progress tracking for trainers | Flutter · Firebase |
-| **[Smart Parking App](https://github.com/alizasaeed02)** ⚠️ | Find, reserve, and pay for a parking spot with live availability | Flutter · Dart |
-| **[Travel App](https://github.com/alizasaeed02)** ⚠️ | Browse destinations, plan trips, and save curated experiences | Flutter · REST API |
-| **[Notes App](https://github.com/alizasaeed02)** ⚠️ | Fast, offline-first note-taking backed by local SQLite | Flutter · SQLite |
+| **[FoodHub App](https://github.com/alizasaeed02/FoodHub-flutter-app)**| Food ordering with restaurant browsing, cart, and a live delivery flow | Flutter · Firebase |
+| **[Notes App](https://github.com/alizasaeed02/Notes-App)** | Fast, offline-first note-taking backed by local SQLite | Flutter · SQLite |
 
 > ⚠️ = replace the link with the real repo URL (I only had URLs for your 5 pinned repos).
 

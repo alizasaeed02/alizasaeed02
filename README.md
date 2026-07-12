@@ -1,6 +1,10 @@
 <h1 align="center">Hi, I'm Aliza 👋</h1>
 
 <p align="center">
+  <img src="https://github.com/alizasaeed02.png" width="140" alt="Aliza Saeed"/>
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=02569B&center=true&vCenter=true&width=520&lines=Flutter+Developer;Mobile+App+Engineer;Clean+Architecture+Enthusiast;Backend+%2B+API+Integrations" alt="Typing SVG" />
   </a>
@@ -12,7 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aliza-khan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/aliza-saeed-software-engineer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:alizasaeedajk@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://aliza-saeed-portfolio.lovable.app"><img src="https://img.shields.io/badge/Portfolio-02569B?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
   <img src="https://komarev.com/ghpvc/?username=alizasaeed02&color=02569B&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
@@ -72,6 +76,13 @@
 | **[Bakery App](https://github.com/alizasaeed02/Bakery-app)** | Shop management — browse items, build a cart, and place orders | Flutter · Firebase |
 | **[Blocx](https://github.com/alizasaeed02/Blocx)** | A reference app showing Bloc for scalable state management | Flutter · Bloc |
 | **[Quran App](https://github.com/alizasaeed02/Quran-App)** | Clean Quran reader with a calm UI and smooth navigation | Flutter · Dart |
+| **[FoodHub App](https://github.com/alizasaeed02)** ⚠️ | Food ordering with restaurant browsing, cart, and a live delivery flow | Flutter · Firebase |
+| **[Gym Management App](https://github.com/alizasaeed02)** ⚠️ | Member records, workout plans, and progress tracking for trainers | Flutter · Firebase |
+| **[Smart Parking App](https://github.com/alizasaeed02)** ⚠️ | Find, reserve, and pay for a parking spot with live availability | Flutter · Dart |
+| **[Travel App](https://github.com/alizasaeed02)** ⚠️ | Browse destinations, plan trips, and save curated experiences | Flutter · REST API |
+| **[Notes App](https://github.com/alizasaeed02)** ⚠️ | Fast, offline-first note-taking backed by local SQLite | Flutter · SQLite |
+
+> ⚠️ = replace the link with the real repo URL (I only had URLs for your 5 pinned repos).
 
 ---
 
@@ -83,7 +94,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alizasaeed02&hide_border=true&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=alizasaeed02&hide_border=true&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
@@ -95,17 +106,10 @@
 ## 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/aliza-khan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/aliza-saeed-software-engineer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:alizasaeedajk@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/alizasaeed02"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://aliza-saeed-portfolio.lovable.app"><img src="https://img.shields.io/badge/Portfolio-02569B?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 </p>
 
 <p align="center"><i>Thanks for stopping by — feel free to check out the repos above. ⭐</i></p>
-
-<!--
-  OPTIONAL — contribution snake animation:
-  1. Create a repo named exactly "alizasaeed02" (your profile repo) if you haven't.
-  2. Add a GitHub Action from Platane/snk that generates the snake SVG on a schedule.
-  3. Then embed it here:
-  <img src="https://raw.githubusercontent.com/alizasaeed02/alizasaeed02/output/github-contribution-grid-snake.svg" />
--->

@@ -1,19 +1,21 @@
-<h1 align="center">Hi, I'm Aliza 👋</h1>
-
 <p align="center">
-  <img src="https://github.com/alizasaeed02.png" width="140" alt="Aliza Saeed"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=02569B&center=true&vCenter=true&width=520&lines=Flutter+Developer;Mobile+App+Engineer;Clean+Architecture+Enthusiast;Backend+%2B+API+Integrations" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=02569B&center=true&vCenter=true&width=520&lines=Flutter+Developer;Mobile+App+Engineer;Clean+Architecture+Enthusiast;Backend+%2B+API+Integrations" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  I build mobile apps with clean UI, stable architecture, and real-world functionality —<br/>
-  focused on Flutter, backend APIs, Firebase, and integrations that make apps actually useful.
-</p>
+<table align="center">
+  <tr>
+    <td width="160" align="center">
+      <img src="https://github.com/alizasaeed02.png" width="140" alt="Aliza Saeed"/>
+    </td>
+    <td>
+      <h1>Hi, I'm Aliza 👋</h1>
+      <b>Flutter Developer · Mobile App Engineer</b><br/><br/>
+      I build mobile apps with clean UI, stable architecture, and real-world<br/>
+      functionality — Flutter, backend APIs, Firebase, and integrations that<br/>
+      make apps actually useful.
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aliza-saeed-software-engineer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -76,27 +78,28 @@
 | **[Bakery App](https://github.com/alizasaeed02/Bakery-app)** | Shop management — browse items, build a cart, and place orders | Flutter · Firebase |
 | **[Blocx](https://github.com/alizasaeed02/Blocx)** | A reference app showing Bloc for scalable state management | Flutter · Bloc |
 | **[Quran App](https://github.com/alizasaeed02/Quran-App)** | Clean Quran reader with a calm UI and smooth navigation | Flutter · Dart |
-| **[FoodHub App](https://github.com/alizasaeed02/FoodHub-flutter-app)**| Food ordering with restaurant browsing, cart, and a live delivery flow | Flutter · Firebase |
+| **[FoodHub App](https://github.com/alizasaeed02/FoodHub-flutter-app)** | Food ordering with restaurant browsing, cart, and a live delivery flow | Flutter · Firebase |
 | **[Notes App](https://github.com/alizasaeed02/Notes-App)** | Fast, offline-first note-taking backed by local SQLite | Flutter · SQLite |
-
-> ⚠️ = replace the link with the real repo URL (I only had URLs for your 5 pinned repos).
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alizasaeed02&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alizasaeed02&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
-</p>
+## 🔥 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=alizasaeed02&hide_border=true&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alizasaeed02&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
-</p>
+<!--
+  The stats, top-languages, and trophy cards were removed because the shared
+  github-readme-stats / github-profile-trophy servers rate-limit and show as
+  broken images. To bring them back, deploy your own github-readme-stats copy
+  to Vercel, then uncomment these and swap in your own URL:
+
+  <p align="center">
+    <img height="165" src="https://YOUR-INSTANCE.vercel.app/api?username=alizasaeed02&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" alt="GitHub Stats"/>
+    <img height="165" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=alizasaeed02&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages"/>
+  </p>
+-->
 
 ---
 
